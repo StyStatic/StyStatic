@@ -1,8 +1,10 @@
 - Hi, I’m @StyStatic
 - I’m interested in modding Minecraft with the Forge Api
 - I’m currently learning Java and Lua
-- I’m looking to collaborate on nothing, group projects suck
+- I’m looking to collaborate on nothing, group projects suck.
 - You can reach me here: https://discord.gg/vCz4WeW
+
+My projects currently include the Remake of popular mod Advanced Combat, and Elements Unleashed my custom mod.
 
 <!---
 StyStatic/StyStatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
