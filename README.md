@@ -1,10 +1,8 @@
 - Hi, I’m @StyStatic
-- I’m interested in modding Minecraft with the Forge Api
-- I’m currently learning Java and Lua
-- I’m looking to collaborate on nothing, group projects suck.
-- You can reach me here: https://discord.gg/vCz4WeW
+I mod minecraft in Forge, Fabric and Quilt.
+I've learned a little Java, some Lua and a little bit of everything else.
 
-My projects currently include the Remake of popular mod Advanced Combat, and Elements Unleashed my custom mod.
+I am working on Advanced Combat and other assorted projects.
 
 <!---
 StyStatic/StyStatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
