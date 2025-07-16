@@ -1,7 +1,7 @@
 # StyStatic Moment:
-- College Student
-- Mod Developer
-- Cool
+- College Graduate
+- Niche Internet Micro Celebrity
+- Commission guy???
 
 # My Projects:
 - [Advanced Combat (Revitalized)](https://legacy.curseforge.com/minecraft/mc-mods/advanced-combat-revitalized) [NeoForge, Forge and Fabric]
